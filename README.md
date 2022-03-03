@@ -6,24 +6,23 @@
 
 ```javascript
 const aboutMe = {
-   pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, Kotlin, Swift],
+   pronouns: "she" | "her",
+   code: [Javascript, HTML, CSS, Java, Kotlin, NodeJS],
    technologies: {
       frontEnd: {
-         js: ["React", "Angular"],
-         css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
+         js: ["HTML", "CSS","JavaScript"],
+         css: ["Materialize", "Tailwind", "Bootstrap", "Material Design", "Semantic UI"]
       },
       backEnd: {
-         java: ["Spring"],
-         js: ["Node", "Express"],
-         csharp: ["Asp.net Core"],
-         misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
+         java,
+         kotlin,
+         js: ["Node"],
       },
-      databases: ["MongoDB", "mySQL", "SQLServer"],
-      mobile: ["Android", "IOS"]
+      databases: [ "mySQL", "SQLServer"],
+      android: ["Kotlin", "Java"]
    },
-   currentOccupation: ["last year student, open for job opportunities"],
-   challenge: "I'm working towards being able to run a marathon.",
+   currentOccupation: ["freelance developer currently building client PWA's"],
+   challenge: "I'm working towards securing a front-end developer role.",
 };
 ```
 <details>
@@ -34,6 +33,6 @@ const aboutMe = {
 
 ### Little More About Me  
 
-Hey there! 😄 My name is Hope Kenga. I'm a 22-year-old  developer and blogger from Nairobi, Kenya who's a lover of life with a soft spot for family, nature, cats and cooking. I'm passionate about building interactive UI's that are clean and aesthetically pleasing. I build something new every week so pass by and pick a template on the frontend. I'm currently working with a really great team to build a great PWA to serve a great purpose.I love meeting new people and learning new things, so please feel free to say hello and share a story with me. I'm good at Team Building and collaboration and I'm currently working with a really great and innovative team to build <a href="marketxmn.com">Market X</a>
+Hey there! 😄 My name is Hope Kenga. I'm a 22-year-old  developer and blogger from Nairobi, Kenya who's a lover of life with a soft spot for family, nature, cats, mental health and cooking. I'm passionate about building interactive UI's that are clean and aesthetically pleasing. I build something new every week so pass by and pick a template on the frontend. I'm currently working with a really great team to build a great PWA to serve a great purpose.I love meeting new people and learning new things, so please feel free to say hello and share a story with me. I'm good at Team Building and collaboration and I'm currently working with a really great and innovative team to build <a href="marketxmn.com">Market X</a>
 
 Here's my favourite song for you :trumpet:- [**Kanyoni** by **Barbara Wangui**.](https://youtu.be/XR45Txa3IeI)
