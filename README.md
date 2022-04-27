@@ -32,6 +32,6 @@ const aboutMe = {
 
 ### Little More About Me  
 
-Hey there! 😄 My name is Hope Kenga. I'm a 22-year-old  developer  from Nairobi, Kenya who's a lover of life with a soft spot for family, nature, cats, mental health and cooking. I'm passionate about building interactive UI's that are clean and aesthetically pleasing. I try  build something new every once in a while so pass by and leave your thoughts kindly.I love meeting new people and learning new things, so please feel free to say hello and share a story with me. I'm good at Team Building and collaboration and I'm currently working with a really great and innovative team to build great softwares to assist and build innovation 
+Hey there! 😄 My name is Hope Kenga. I'm a 22-year-old  developer  from Nairobi, Kenya who's a lover of life with a soft spot for family, nature, cats, mental health and cooking. I'm passionate about building interactive UI's that are clean and aesthetically pleasing. I try  build something new every once in a while so pass by and leave your thoughts kindly.I love meeting new people and learning new things, so please feel free to say hello and share a story with me. I'm good at Team Building and collaboration and I'm currently working with a really great and innovative team to build great softwares to assist and build user-friendly and awesome products that have a huge coversion rate. 
 
 Here's my favourite song for you :trumpet:- [**Kanyoni** by **Barbara Wangui**.](https://youtu.be/XR45Txa3IeI)
