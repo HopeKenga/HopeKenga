@@ -12,7 +12,7 @@ const aboutMe = {
          css: ["Materialize", "Tailwind", "Bootstrap", "Material Design", "Semantic UI"]
       },
       backEnd: {
-         js: ["Learning NodeJS"],
+         js: ["Learning NodeJS, Python"],
       },
       databases: [ "mySQL", "SQLServer"],
       android: ["Kotlin"]
