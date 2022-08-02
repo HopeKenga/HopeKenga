@@ -7,18 +7,15 @@ const aboutMe = {
    pronouns: "she" | "her",
    code: [Javascript, HTML, CSS, Kotlin, ReactJS, learning NodeJS],
    technologies: {
-      frontEnd: {
-         js: ["HTML", "CSS","JavaScript"],
-         css: ["Materialize", "Tailwind", "Bootstrap", "Material Design", "Semantic UI"]
-      },
+   
       backEnd: {
          js: ["Learning NodeJS, Python"],
       },
       databases: [ "mySQL", "SQLServer"],
       android: ["Kotlin"]
    },
-   currentOccupation: ["freelance developer currently building client web systems"],
-   challenge: "I'm working towards securing a front-end developer role.",
+   currentOccupation: ["Backend/ API developer @ PieMe Kenya"],
+   challenge: "I'm working towards a backend developer role.",
 };
 ```
 
@@ -32,6 +29,6 @@ const aboutMe = {
 
 ### Little More About Me  
 
-Hey there! 😄 My name is Hope Kenga. I'm a 22-year-old  developer  from Nairobi, Kenya who's a lover of life with a soft spot for family, nature, cats, mental health and cooking. I'm passionate about building interactive UI's that are clean and aesthetically pleasing. I try  build something new every once in a while so pass by and leave your thoughts kindly.I love meeting new people and learning new things, so please feel free to say hello and share a story with me. I'm good at Team Building and collaboration and I'm currently working with a really great and innovative team to build great softwares to assist and build user-friendly and awesome products that have a huge coversion rate. 
+Hey there! 😄 My name is Hope Kenga. I'm a 22-year-old  developer  from Nairobi, Kenya who's a lover of life with a soft spot for family, nature, cats, mental health and cooking. I'm passionate about building smooth user journeys that are clean and aesthetically pleasing. I try  build something new every once in a while so pass by and leave your thoughts kindly.I love meeting new people and learning new things, so please feel free to say hello and share a story with me. I'm good at Team Building and collaboration and I'm currently working with a really great and innovative team to build great softwares to assist and build user-friendly and awesome products that have a huge coversion rate. 
 
 Here's my favourite song for you :trumpet:- [**Kanyoni** by **Barbara Wangui**.](https://youtu.be/XR45Txa3IeI)
