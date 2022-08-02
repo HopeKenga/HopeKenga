@@ -5,7 +5,7 @@
 ```javascript
 const aboutMe = {
    pronouns: "she" | "her",
-   code: [Javascript, HTML, CSS, Kotlin, ReactJS, learning NodeJS],
+   code: [Javascript,Python, NodeJS],
    technologies: {
    
       backEnd: {
