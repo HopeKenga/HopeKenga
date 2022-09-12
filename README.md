@@ -9,7 +9,7 @@ const aboutMe = {
    technologies: {
    
       backEnd: {
-         js: ["Learning NodeJS, Python"],
+         js: ["NodeJS, Python, TS, NestJS"],
       },
       databases: [ "mySQL", "SQLServer"],
       android: ["Kotlin"]
