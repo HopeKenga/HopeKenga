@@ -14,6 +14,7 @@ const aboutMe = {
       databases: [ "mySQL", "SQLServer"],
       android: ["Kotlin"]
    },
+   articles:[**I also write articles based on challenges and things I'm learning**.](https://riziki.hashnode.dev)
    currentOccupation: ["Backend/ API developer @ PieMe Kenya"],
    challenge: "I'm working towards a backend developer role.",
 };
