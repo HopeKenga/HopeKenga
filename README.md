@@ -5,13 +5,13 @@
 ```javascript
 const aboutMe = {
    pronouns: "she" | "her",
-   code: [Javascript,Python, NodeJS],
+   code: [Javascript,Python, NodeJS, TypeScript],
    technologies: {
    
       backEnd: {
          js: ["NodeJS, Python, TS, NestJS"],
       },
-      databases: [ "mySQL", "SQLServer"],
+      databases: [ "mySQL", "SQLServer","MongoDB","PostgresSQL"],
       android: ["Kotlin"]
    },
    currentOccupation: ["Junior Backend Developer at Litenry"],
