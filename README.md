@@ -1,5 +1,5 @@
 <h2> Hi, I'm Hope Kenga <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://github.com/HopeKenga/HopeKenga/blob/main/IMG_1516.PNG" width="230">
+<img align='right' src="https://github.com/HopeKenga/HopeKenga/blob/main/9F5E2ED3-CF66-44D6-961D-6F10A37310E1.png" width="230">
 
 
 ```javascript
