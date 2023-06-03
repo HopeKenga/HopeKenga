@@ -14,7 +14,7 @@ const aboutMe = {
       databases: [ "mySQL", "SQLServer","MongoDB","PostgresSQL"],
       android: ["Kotlin"]
    },
-   currentOccupation: ["Junior Backend Developer at Litenry"],
+   currentOccupation: ["Backend Developer"],
    challenge: "Learning and building more everyday",
 };
 ```
