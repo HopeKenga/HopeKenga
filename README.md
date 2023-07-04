@@ -10,10 +10,13 @@ const aboutMe = {
       backEnd: {
          js: ["NodeJS, Python, TS, NestJS"],
       },
-      databases: [ "mySQL", "SQLServer","MongoDB","PostgresSQL"],
+      frontEnd: {
+         js: ["React"],
+      },
+      databases: [ "mySQL", "SQLServer","MongoDB","PostgresSQL, PRISMA"],
       android: ["Kotlin"]
    },
-   currentOccupation: ["Backend Developer"],
+   currentOccupation: ["Fullstack Developer"],
    challenge: "Learning and building more everyday",
 };
 ```
