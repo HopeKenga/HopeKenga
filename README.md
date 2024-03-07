@@ -8,7 +8,7 @@ const aboutMe = {
    technologies: {
    
       backEnd: {
-         frameworks/languages: ["NodeJS, Django, Flask , TS, NestJS"],
+         frameworks languages: ["NodeJS, Django, Flask , TS, NestJS"],
       },
       frontEnd: {
          js: ["React"],
