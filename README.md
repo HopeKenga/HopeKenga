@@ -25,7 +25,7 @@ const aboutMe = {
 
 <details>
 <summary>
-  <a href="https://github.com/K-Kraken"><img src="https://img.shields.io/badge/-Expand%20to%20know%20more-b03544?style=for-the-badge" /></a>
+  <a href=""><img src="https://img.shields.io/badge/-Expand%20to%20know%20more-b03544?style=for-the-badge" /></a>
 </summary>
 <img align='center' src="https://github.com/HopeKenga/HopeKenga/blob/main/IMG_1517.PNG" width="250">
 
