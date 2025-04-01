@@ -4,7 +4,7 @@
 
 ```javascript
 const aboutMe = {
-   code: [Javascript,Python, NodeJS, TypeScript],
+   code: [Java, Javascript,Python, NodeJS, TypeScript],
    technologies: {
    
       backEnd: {
